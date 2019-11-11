@@ -1,0 +1,14 @@
+C:\Users\Jasmine\source\repos\TermonArena\TermonArena\bin\Debug\TermonArena.exe.config
+C:\Users\Jasmine\source\repos\TermonArena\TermonArena\bin\Debug\TermonArena.exe
+C:\Users\Jasmine\source\repos\TermonArena\TermonArena\bin\Debug\TermonArena.pdb
+C:\Users\Jasmine\source\repos\TermonArena\TermonArena\obj\Debug\TermonArena.csprojAssemblyReference.cache
+C:\Users\Jasmine\source\repos\TermonArena\TermonArena\obj\Debug\TermonArena.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine\source\repos\TermonArena\TermonArena\obj\Debug\TermonArena.exe
+C:\Users\Jasmine\source\repos\TermonArena\TermonArena\obj\Debug\TermonArena.pdb
+C:\Users\Jasmine\source\repos\Old Programs\TermonArena\TermonArena\bin\Debug\TermonArena.exe.config
+C:\Users\Jasmine\source\repos\Old Programs\TermonArena\TermonArena\bin\Debug\TermonArena.exe
+C:\Users\Jasmine\source\repos\Old Programs\TermonArena\TermonArena\bin\Debug\TermonArena.pdb
+C:\Users\Jasmine\source\repos\Old Programs\TermonArena\TermonArena\obj\Debug\TermonArena.csprojAssemblyReference.cache
+C:\Users\Jasmine\source\repos\Old Programs\TermonArena\TermonArena\obj\Debug\TermonArena.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine\source\repos\Old Programs\TermonArena\TermonArena\obj\Debug\TermonArena.exe
+C:\Users\Jasmine\source\repos\Old Programs\TermonArena\TermonArena\obj\Debug\TermonArena.pdb
