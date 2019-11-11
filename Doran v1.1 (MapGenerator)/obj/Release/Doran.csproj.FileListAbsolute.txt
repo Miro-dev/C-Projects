@@ -1,0 +1,12 @@
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\bin\Release\Doran.exe.config
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\bin\Release\Doran.exe
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\bin\Release\Doran.pdb
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\bin\Release\Engine.dll
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\bin\Release\Engine.pdb
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\obj\Release\Doran.csprojAssemblyReference.cache
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\obj\Release\Doran.Properties.Resources.resources
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\obj\Release\Doran.csproj.GenerateResource.cache
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\obj\Release\Doran.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\obj\Release\Doran.csproj.CopyComplete
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\obj\Release\Doran.exe
+C:\Users\Jasmine\source\repos\Doran BackUp\Doran\Doran\obj\Release\Doran.pdb
