@@ -10,6 +10,6 @@ The field size and starting point, tile size and iteration number can be changed
 
 It needs lots of correction and a revision as a whole.
 
-The .exe file is in bin/Release/
+The .exe file is in MapGenerator/bin/Release/
 
 Some maps can be seen in this folder.
